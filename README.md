@@ -3,7 +3,7 @@
 
   🔴🔴🔴Note: You must put payload.php in the same path where you run this command.
 
-  ```php -S [IP address range for local access or you can type localhost only]:[port]```
+  ```php -S [IP address for local access or you can type `localhost` only]:[port]```
   
   Ex: ```php -S localhost:6969```
 
