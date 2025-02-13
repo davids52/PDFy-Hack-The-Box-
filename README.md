@@ -1,7 +1,7 @@
 1. Create file payload.php
 2. Hosting a php server locally by this command:
 
-  🔴🔴🔴Note: You must put payload.php in the same path where you run this command to host web server locally.
+  🔴🔴🔴Note: You must put payload.php in the same path where you run this command.
 
   ```php -S [IP address range for local access or you can type localhost only]:[port]```
   
